@@ -1,0 +1,10 @@
+torch==2.4.1
+git+https://github.com/nasa/pretrained-microscopy-models
+segmentation-models-pytorch==0.2.1
+albumentations==1.4.15
+albucore==0.0.16  # Specify the desired version of albucore
+opencv-python==4.10.0.82
+matplotlib==3.7.1
+numpy==1.26.4
+streamlit
+google-generativeai
